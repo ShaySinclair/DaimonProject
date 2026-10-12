@@ -1,0 +1,54 @@
+[
+    {
+        "npc_id": 1,
+        "npc_name": "Rival - Male",
+        "npc_gender": "Male",
+        "npc_type": "Rival - Male",
+        "npc_money": 100,
+        "npc_location_id": 8,
+        "npc_daimon_dex_id": 1,
+        "npc_daimon_inventory_id": 1,
+        "npc_item_inventory_id": 1,
+        "npc_quest_main_inventory_id": 1,
+        "npc_quest_side_inventory_id": 1
+    },
+    {
+        "npc_id": 2,
+        "npc_name": "Rival - Female",
+        "npc_gender": "Female",
+        "npc_type": "Rival - Female",
+        "npc_money": 100,
+        "npc_location_id": 8,
+        "npc_daimon_dex_id": 2,
+        "npc_daimon_inventory_id": 2,
+        "npc_item_inventory_id": 2,
+        "npc_quest_main_inventory_id": 2,
+        "npc_quest_side_inventory_id": 2
+    },
+    {
+        "npc_id": 3,
+        "npc_name": "Merchant William",
+        "npc_gender": "Male",
+        "npc_type": "Merchant - Daimart Wares",
+        "npc_money": 100,
+        "npc_location_id": 8,
+        "npc_daimon_dex_id": 3,
+        "npc_daimon_inventory_id": 3,
+        "npc_item_inventory_id": 3,
+        "npc_quest_main_inventory_id": 3,
+        "npc_quest_side_inventory_id": 3
+    },
+    {
+        "npc_id": 4,
+        "npc_name": "Merchant Wynona",
+        "npc_gender": "Female",
+        "npc_type": "Merchant - Daimedical Care",
+        "npc_money": 100,
+        "npc_location_id": 8,
+        "npc_daimon_dex_id": 4,
+        "npc_daimon_inventory_id": 4,
+        "npc_item_inventory_id": 4,
+        "npc_quest_main_inventory_id": 4,
+        "npc_quest_side_inventory_id": 4
+    }
+]

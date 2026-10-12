@@ -1,0 +1,70 @@
+[
+    {
+        "biome_id": 0,
+        "biome_name": "Null",
+        "biome_weather_pool": []
+    },
+    {
+        "biome_id": 1,
+        "biome_name": "Forest - Boreal",
+        "biome_weather_pool": [
+            {"weather_chance": 0, "weather_id": 0},
+            {"weather_chance": 0.75, "weather_id": 1},
+            {"weather_chance": 0.05, "weather_id": 2},
+            {"weather_chance": 0, "weather_id": 3},
+            {"weather_chance": 0, "weather_id": 4},
+            {"weather_chance": 0.05, "weather_id": 5},
+            {"weather_chance": 0.00625, "weather_id": 6},
+            {"weather_chance": 0.05, "weather_id": 7},
+            {"weather_chance": 0.025, "weather_id": 8},
+            {"weather_chance": 0.0125, "weather_id": 9},
+            {"weather_chance": 0.00625, "weather_id": 10},
+            {"weather_chance": 0.00625, "weather_id": 11},
+            {"weather_chance": 0.025, "weather_id": 12},
+            {"weather_chance": 0.0125, "weather_id": 13},
+            {"weather_chance": 0.00625, "weather_id": 14}
+        ]
+    },
+    {
+        "biome_id": 2,
+        "biome_name": "Forest - Temperate",
+        "biome_weather_pool": [
+            {"weather_chance": 0, "weather_id": 0},
+            {"weather_chance": 0.55, "weather_id": 1},
+            {"weather_chance": 0.08, "weather_id": 2},
+            {"weather_chance": 0, "weather_id": 3},
+            {"weather_chance": 0, "weather_id": 4},
+            {"weather_chance": 0.08, "weather_id": 5},
+            {"weather_chance": 0.02, "weather_id": 6},
+            {"weather_chance": 0.08, "weather_id": 7},
+            {"weather_chance": 0.04, "weather_id": 8},
+            {"weather_chance": 0.025, "weather_id": 9},
+            {"weather_chance": 0.02, "weather_id": 10},
+            {"weather_chance": 0.02, "weather_id": 11},
+            {"weather_chance": 0.04, "weather_id": 12},
+            {"weather_chance": 0.025, "weather_id": 13},
+            {"weather_chance": 0.02, "weather_id": 14}
+        ]
+    },
+    {
+        "biome_id": 3,
+        "biome_name": "Forest - Tropical",
+        "biome_weather_pool": [
+            {"weather_chance": 0, "weather_id": 0},
+            {"weather_chance": 0.6, "weather_id": 1},
+            {"weather_chance": 0.09, "weather_id": 2},
+            {"weather_chance": 0, "weather_id": 3},
+            {"weather_chance": 0, "weather_id": 4},
+            {"weather_chance": 0.09, "weather_id": 5},
+            {"weather_chance": 0.02, "weather_id": 6},
+            {"weather_chance": 0.09, "weather_id": 7},
+            {"weather_chance": 0.04, "weather_id": 8},
+            {"weather_chance": 0.03, "weather_id": 9},
+            {"weather_chance": 0.02, "weather_id": 10},
+            {"weather_chance": 0.02, "weather_id": 11},
+            {"weather_chance": 0, "weather_id": 12},
+            {"weather_chance": 0, "weather_id": 13},
+            {"weather_chance": 0, "weather_id": 14}
+        ]
+    }
+]

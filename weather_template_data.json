@@ -1,0 +1,82 @@
+[
+    {
+        "weather_template_id": 0,
+        "weather_template_name": "Null",
+        "weather_template_intensity_base": 0
+    },
+    {
+        "weather_template_id": 1,
+        "weather_template_name": "Clear",
+        "weather_template_intensity_base": 1
+    },
+    {
+        "weather_template_id": 2,
+        "weather_template_name": "Sun",
+        "weather_template_intensity_base": 2
+    },
+    {
+        "weather_template_id": 3,
+        "weather_template_name": "Heatwave",
+        "weather_template_intensity_base": 4
+    },
+    {
+        "weather_template_id": 4,
+        "weather_template_name": "Sandstorm",
+        "weather_template_intensity_base": 5
+    },
+    {
+        "weather_template_id": 5,
+        "weather_template_name": "Wind",
+        "weather_template_intensity_base": 2
+    },
+    {
+        "weather_template_id": 6,
+        "weather_template_name": "Windstorm",
+        "weather_template_intensity_base": 5
+    },
+    {
+        "weather_template_id": 7,
+        "weather_template_name": "Fog",
+        "weather_template_intensity_base": 2
+    },
+    {
+        "weather_template_id": 8,
+        "weather_template_name": "Cloud",
+        "weather_template_intensity_base": 3
+    },
+    {
+        "weather_template_id": 9,
+        "weather_template_name": "Rain",
+        "weather_template_intensity_base": 4
+    },
+    {
+        "weather_template_id": 10,
+        "weather_template_name": "Rainstorm",
+        "weather_template_intensity_base": 5
+    },
+    {
+        "weather_template_id": 11,
+        "weather_template_name": "Thunderstorm",
+        "weather_template_intensity_base": 5
+    },
+    {
+        "weather_template_id": 12,
+        "weather_template_name": "Snow",
+        "weather_template_intensity_base": 3
+    },
+    {
+        "weather_template_id": 13,
+        "weather_template_name": "Hail",
+        "weather_template_intensity_base": 4
+    },
+    {
+        "weather_template_id": 14,
+        "weather_template_name": "Snowstorm",
+        "weather_template_intensity_base": 5
+    },
+    {
+        "weather_template_id": 15,
+        "weather_template_name": "Hailstorm",
+        "weather_template_intensity_base": 5
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "npc_daimon_inventory_id": 1,
+        "npc_daimon_inventory_follower": null,
+        "npc_daimon_inventory_team": [],
+        "npc_daimon_inventory_storage": []
+    },
+    {
+        "npc_daimon_inventory_id": 2,
+        "npc_daimon_inventory_follower": null,
+        "npc_daimon_inventory_team": [],
+        "npc_daimon_inventory_storage": []
+    },
+    {
+        "npc_daimon_inventory_id": 3,
+        "npc_daimon_inventory_follower": null,
+        "npc_daimon_inventory_team": [],
+        "npc_daimon_inventory_storage": []
+    },
+    {
+        "npc_daimon_inventory_id": 4,
+        "npc_daimon_inventory_follower": null,
+        "npc_daimon_inventory_team": [],
+        "npc_daimon_inventory_storage": []
+    }
+]

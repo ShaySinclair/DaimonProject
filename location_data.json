@@ -1,0 +1,90 @@
+[
+    {
+        "location_id": 1,
+        "location_name": "Wellspring Village - Player Home",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 2,
+        "location_name": "Wellspring Village - Rival Home - Female",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 3,
+        "location_name": "Wellspring Village - Rival Home - Male",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 4,
+        "location_name": "Wellspring Village - Daimart Wares",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 5,
+        "location_name": "Wellspring Village - Daimedical Care",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 6,
+        "location_name": "Wellspring Village - Exterior",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": null,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 7,
+        "location_name": "Wellspring Ranger Station",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": 0.5,
+        "location_item_base_spawn_pool": []
+    },
+    {
+        "location_id": 8,
+        "location_name": "Maywright Trail",
+        "location_description": "Write a description.",
+        "location_biome_id": 2,
+        "location_weather_id": 0,
+        "location_daimon_base_spawn_rate": null,
+        "location_daimon_base_spawn_pool": [],
+        "location_item_base_spawn_rate": 0.5,
+        "location_item_base_spawn_pool": [{"item_template": 1, "spawn_weight": 0.5}]
+    }
+]

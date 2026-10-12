@@ -1,0 +1,14 @@
+[
+    {
+        "daimon_ability_id": 1,
+        "daimon_ability_name": "Second Wind",
+        "daimon_ability_description": "The Daimon heals to 75% of maximum health and raises Physical Attack by 1 stage after being non-fatally hit to below 50% of maximum health.",
+        "daimon_ability_effect": [{"effect_trigger": "Below 50% Health", "effect_type": "Health Current", "effect_value": 0.75}, {"effect_trigger": "Below 50% Health", "effect_type": "Physical Attack", "effect_value": 1}]
+    },
+    {
+        "daimon_ability_id": 2,
+        "daimon_ability_name": "Intimidate",
+        "daimon_ability_description": "The opposing Daimon's Physical Attack is lowered by 1 stage.",
+        "daimon_ability_effect": [{"effect_trigger": "Switch In", "effect_type": "Stat Change", "effect_value": 1}]
+    }
+]

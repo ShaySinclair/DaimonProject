@@ -1,0 +1,51 @@
+[
+    {
+        "daimon_status_template_id": 1,
+        "daimon_status_template_name": "Healthy",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": null
+    },
+    {
+        "daimon_status_template_id": 2,
+        "daimon_status_template_name": "Fainted",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": null
+    },
+    {
+        "daimon_status_template_id": 3,
+        "daimon_status_template_name": "Sleeping",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": 3
+    },
+    {
+        "daimon_status_template_id": 4,
+        "daimon_status_template_name": "Poisoned",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": null
+    },
+    {
+        "daimon_status_template_id": 5,
+        "daimon_status_template_name": "Burnt",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": null
+    },
+    {
+        "daimon_status_template_id": 6,
+        "daimon_status_template_name": "Frozen",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": 3
+    },
+    {
+        "daimon_status_template_id": 7,
+        "daimon_status_template_name": "Paralyzed",
+        "daimon_status_template_description": "TBD",
+        "daimon_status_template_effect": [{}],
+        "daimon_status_template_duration_max": null
+    }
+]

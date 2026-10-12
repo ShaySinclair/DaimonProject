@@ -1,0 +1,58 @@
+[
+    {
+        "daimon_type_id": 1,
+        "daimon_type_name": "Fire",
+        "daimon_type_advantages": [3],
+        "daimon_type_disadvantages": [1, 2],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 2,
+        "daimon_type_name": "Water",
+        "daimon_type_advantages": [1],
+        "daimon_type_disadvantages": [2, 3],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 3,
+        "daimon_type_name": "Plant",
+        "daimon_type_advantages": [2],
+        "daimon_type_disadvantages": [3, 1],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 4,
+        "daimon_type_name": "Earth",
+        "daimon_type_advantages": [2],
+        "daimon_type_disadvantages": [3, 1],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 5,
+        "daimon_type_name": "Air",
+        "daimon_type_advantages": [2],
+        "daimon_type_disadvantages": [3, 1],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 6,
+        "daimon_type_name": "Electric",
+        "daimon_type_advantages": [2],
+        "daimon_type_disadvantages": [3, 1],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 7,
+        "daimon_type_name": "Metal",
+        "daimon_type_advantages": [3],
+        "daimon_type_disadvantages": [1, 4],
+        "daimon_type_immunities": []
+    },
+    {
+        "daimon_type_id": 8,
+        "daimon_type_name": "Normal",
+        "daimon_type_advantages": [],
+        "daimon_type_disadvantages": [],
+        "daimon_type_immunities": []
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "daimon_move_template_id": 1,
+        "daimon_move_template_name": "Metal Claw",
+        "daimon_move_template_type_id": 7,
+        "daimon_move_template_description": "The target is raked with steel claws. This may also raise the user's Physical Attack by 1 stage.",
+        "daimon_move_template_category": "Physical",
+        "daimon_move_template_power": 50,
+        "daimon_move_template_accuracy": 0.95,
+        "daimon_move_template_points_max": 40,
+        "daimon_move_template_points_base": 30,
+        "daimon_move_template_effect_status": [{"daimon_status_template_id": 3, "daimon_status_template_weight": 1, "daimon_status_template_target": "Target"}],
+        "daimon_move_template_effect_stat_change": [{"daimon_effect_stat_change_type": "Physical Attack", "daimon_effect_stat_change_weight": 1, "daimon_effect_stat_change_target": "Target", "daimon_effect_stat_change_value": -1}]
+    },
+    {
+        "daimon_move_template_id": 2,
+        "daimon_move_template_name": "Growl",
+        "daimon_move_template_type_id": 3,
+        "daimon_move_template_description": "The user growls in an endearing way, making opposing targets less wary. This lowers their Attack stats",
+        "daimon_move_template_category": "Status",
+        "daimon_move_template_power": 0,
+        "daimon_move_template_accuracy": 1,
+        "daimon_move_template_points_max": 40,
+        "daimon_move_template_points_base": 30,
+        "daimon_move_template_effect_status": [{"daimon_status_template_id": 3, "daimon_status_template_weight": 1, "daimon_status_template_target": "Target"}],
+        "daimon_move_template_effect_stat_change": [{"daimon_effect_stat_change_type": "Physical Attack", "daimon_effect_stat_change_weight": 1, "daimon_effect_stat_change_target": "Target","daimon_effect_stat_change_value": -1}]
+    },
+    {
+        "daimon_move_template_id": 3,
+        "daimon_move_template_name": "Gauntlet Strike",
+        "daimon_move_template_type_id": 7,
+        "daimon_move_template_description": "The user strikes the foe with a heavy steel gauntlet.",
+        "daimon_move_template_category": "Physical",
+        "daimon_move_template_power": 100,
+        "daimon_move_template_accuracy": 0.90,
+        "daimon_move_template_points_max": 40,
+        "daimon_move_template_points_base": 30,
+        "daimon_move_template_effect_status": [{"daimon_status_template_id": 3, "daimon_status_template_weight": 1, "daimon_status_template_target": "Target"}],
+        "daimon_move_template_effect_stat_change": [{"daimon_effect_stat_change_type": "Physical Attack", "daimon_effect_stat_change_weight": 1, "daimon_effect_stat_change_target": "Target","daimon_effect_stat_change_value": -1}]
+    },
+    {
+        "daimon_move_template_id": 4,
+        "daimon_move_template_name": "Struggle",
+        "daimon_move_template_type_id": 8,
+        "daimon_move_template_description": "The user flails wildly.",
+        "daimon_move_template_category": "Physical",
+        "daimon_move_template_power": 25,
+        "daimon_move_template_accuracy": 1,
+        "daimon_move_template_points_max": 100,
+        "daimon_move_template_points_base": 100,
+        "daimon_move_template_effect_status": [{}],
+        "daimon_move_template_effect_stat_change": [{}]
+    }
+]

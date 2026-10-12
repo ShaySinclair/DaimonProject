@@ -1,0 +1,82 @@
+[
+    {
+    "quest_step_template_id": 1,
+    "quest_step_template_name": "Interact With An Interactible",
+    "quest_step_template_description": "Interact With An Interactible",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_interactible_ids": [1, 2]}],
+    "quest_step_template_reward_money_range": [0, 0],
+    "quest_step_template_reward_item_template_pool": [{}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 2,
+    "quest_step_template_name": "Acquire An Item",
+    "quest_step_template_description": "Acquire An Item",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_item_ids": [1, 2]}],
+    "quest_step_template_reward_money_range": [0, 0],
+    "quest_step_template_reward_item_template_pool": [{}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 3,
+    "quest_step_template_name": "Go To A Location",
+    "quest_step_template_description": "Go To A Location",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_location_ids": [1, 2]}],
+    "quest_step_template_reward_money_range": [0, 0],
+    "quest_step_template_reward_item_template_pool": [{}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 4,
+    "quest_step_template_name": "Talk To An NPC",
+    "quest_step_template_description": "Talk To An NPC",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_reward_money_range": [0, 0],
+    "quest_step_template_reward_item_template_pool": [{}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 5,
+    "quest_step_template_name": "Defeat A Rampaging Daimon",
+    "quest_step_template_description": "Defeat quest steps require the player to defeat a randomly generated, rampaging, Daimon in a randomly generated location and notify the NPC of side quest origin.",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_interactible_ids": [1, 2]}, {"end_pool_item_ids": [1, 2]}, {"end_pool_location_ids": [1, 2]}, {"end_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_reward_money_range": [1, 100],
+    "quest_step_template_reward_item_template_pool": [{"item_template_id": 1, "item_template_weight": 0.7}, {"item_template_id": 3, "item_template_weight": 0.3}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 6,
+    "quest_step_template_name": "Deliver An Item",
+    "quest_step_template_description": "Deliver quest steps require the player to obtain a randomly generated item by any means and deliver it to the NPC of side quest origin.",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_interactible_ids": [1, 2]}, {"end_pool_item_ids": [1, 2]}, {"end_pool_location_ids": [1, 2]}, {"end_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_reward_money_range": [1, 100],
+    "quest_step_template_reward_item_template_pool": [{"item_template_id": 1, "item_template_weight": 0.7}, {"item_template_id": 3, "item_template_weight": 0.3}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 7,
+    "quest_step_template_name": "Disband An Enemy Faction",
+    "quest_step_template_description": "Disband quest steps require the player to disband a group of antagonist group trainers in a location and notify the NPC of side quest origin.",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_interactible_ids": [1, 2]}, {"end_pool_item_ids": [1, 2]}, {"end_pool_location_ids": [1, 2]}, {"end_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_reward_money_range": [1, 100],
+    "quest_step_template_reward_item_template_pool": [{"item_template_id": 1, "item_template_weight": 0.7}, {"item_template_id": 3, "item_template_weight": 0.3}],
+    "quest_step_template_status": "Not Started"
+    },
+    {
+    "quest_step_template_id": 8,
+    "quest_step_template_name": "Discover A Location",
+    "quest_step_template_description": "Discover quest steps require the player to solve a puzzle to find a randomly generated client-side location.",
+    "quest_step_template_start_pool": [{"start_pool_interactible_ids": [1, 2]}, {"start_pool_item_ids": [1, 2]}, {"start_pool_location_ids": [1, 2]}, {"start_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_end_pool": [{"end_pool_interactible_ids": [1, 2]}, {"end_pool_item_ids": [1, 2]}, {"end_pool_location_ids": [1, 2]}, {"end_pool_npc_ids": [1, 2, 3, 4]}],
+    "quest_step_template_reward_money_range": [1, 100],
+    "quest_step_template_reward_item_template_pool": [{"item_template_id": 1, "item_template_weight": 0.7}, {"item_template_id": 3, "item_template_weight": 0.3}],
+    "quest_step_template_status": "Not Started"
+    }
+]

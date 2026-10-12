@@ -1,0 +1,90 @@
+[
+    {
+        "npc_id": 1000,
+        "npc_name_distribution": ["Null"],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1001,
+        "npc_name_distribution": [{"Penn": 0.5}, {"Teller": 0.5}],
+        "npc_gender_distribution": {"Female": 0, "Male": 1},
+        "npc_type": "Mysterious Man",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{"1": 0.5}, {"2": 0.5}]
+    },
+    {
+        "npc_id": 1002,
+        "npc_name_distribution": [{"Goggins": 1}],
+        "npc_gender_distribution": {"Female": 0, "Male": 1},
+        "npc_type": "Marathon Runner",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{"1": 1}]
+    },
+    {
+        "npc_id": 1003,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1004,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1005,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1006,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1007,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1008,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1009,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    },
+    {
+        "npc_id": 1010,
+        "npc_name_distribution": [{}],
+        "npc_gender_distribution": {},
+        "npc_type": "",
+        "npc_money": 0,
+        "npc_location_id_distribution": [{}]
+    }
+]

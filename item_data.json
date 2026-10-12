@@ -1,0 +1,107 @@
+[
+    {
+        "item_id": 1,
+        "item_name": "Willstone - King's",
+        "item_description": "Write a description.",
+        "item_category": "Willstone",
+        "item_actions": [
+            {}
+        ],
+        "item_base_value": 100,
+        "item_hex_code_1": "#B99584",
+        "item_hex_code_2": "#423FA7",
+        "item_hex_code_3": "#966242",
+        "item_hex_code_4": "#9FD266",
+        "item_hex_code_5": "#A3752A",
+        "item_hex_code_6": "#E4ED06",
+        "item_hex_code_7": "#6ECD11",
+        "item_hex_code_8": "#61ADED",
+        "item_hex_code_9": "#A7BF7B",
+        "item_hex_code_10": "#7C413F",
+        "item_quantity": 5
+    },
+    {
+        "item_id": 2,
+        "item_name": "Willstone - King's",
+        "item_description": "Write a description.",
+        "item_category": "Willstone",
+        "item_actions": [
+            {}
+        ],
+        "item_base_value": 100,
+        "item_hex_code_1": "#974890",
+        "item_hex_code_2": "#08DBA7",
+        "item_hex_code_3": "#6FA2F1",
+        "item_hex_code_4": "#BF348E",
+        "item_hex_code_5": "#FFCAB7",
+        "item_hex_code_6": "#760872",
+        "item_hex_code_7": "#321078",
+        "item_hex_code_8": "#BC706B",
+        "item_hex_code_9": "#B50975",
+        "item_hex_code_10": "#D43B85",
+        "item_quantity": 5
+    },
+    {
+        "item_id": 3,
+        "item_name": "Commander's Overcoat - Fur-collared",
+        "item_description": "Write a description.",
+        "item_category": "Clothing",
+        "item_actions": [
+            {}
+        ],
+        "item_base_value": 10,
+        "item_hex_code_1": "#4A7587",
+        "item_hex_code_2": "#2F8E07",
+        "item_hex_code_3": "#B27642",
+        "item_hex_code_4": "#0959E0",
+        "item_hex_code_5": "#80EA1D",
+        "item_hex_code_6": "#D14CE9",
+        "item_hex_code_7": "#2DE86E",
+        "item_hex_code_8": "#96A8AB",
+        "item_hex_code_9": "#069214",
+        "item_hex_code_10": "#A59F1F",
+        "item_quantity": 5
+    },
+    {
+        "item_id": 4,
+        "item_name": "Willstone - King's",
+        "item_description": "Write a description.",
+        "item_category": "Willstone",
+        "item_actions": [
+            {}
+        ],
+        "item_base_value": 100,
+        "item_hex_code_1": "#98AB57",
+        "item_hex_code_2": "#1FECB8",
+        "item_hex_code_3": "#CD5B47",
+        "item_hex_code_4": "#1929CF",
+        "item_hex_code_5": "#4BDF0C",
+        "item_hex_code_6": "#5E4C32",
+        "item_hex_code_7": "#9872E5",
+        "item_hex_code_8": "#9A347A",
+        "item_hex_code_9": "#6AC067",
+        "item_hex_code_10": "#3AB6EB",
+        "item_quantity": 5
+    },
+    {
+        "item_id": 5,
+        "item_name": "Commander's Overcoat - Fur-collared",
+        "item_description": "Write a description.",
+        "item_category": "Clothing",
+        "item_actions": [
+            {}
+        ],
+        "item_base_value": 10,
+        "item_hex_code_1": "#67FDF8",
+        "item_hex_code_2": "#3C7EC1",
+        "item_hex_code_3": "#6C6850",
+        "item_hex_code_4": "#3278B0",
+        "item_hex_code_5": "#DA97D9",
+        "item_hex_code_6": "#B471D7",
+        "item_hex_code_7": "#E06B23",
+        "item_hex_code_8": "#529217",
+        "item_hex_code_9": "#DDA97D",
+        "item_hex_code_10": "#C8C4A5",
+        "item_quantity": 5
+    }
+]
